@@ -15,20 +15,7 @@
       "problemMatcher": "$msCompile"
     },
     {
-      "label": "Compilar addon",
-      "type": "process",
-      "command": "dotnet",
-      "args": [
-        "build",
-        "addons/WeekendCollections/WeekendCollections.csproj",
-        "-c",
-        "Release",
-        "-p:SptRoot=${input:sptRoot}"
-      ],
-      "problemMatcher": "$msCompile"
-    },
-    {
-      "label": "Validar catálogo",
+      "label": "Validar cat\u00e1logo",
       "type": "process",
       "command": "python",
       "args": [
