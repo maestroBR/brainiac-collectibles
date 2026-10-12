@@ -1,0 +1,56 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Compilar itens",
+      "type": "process",
+      "command": "dotnet",
+      "args": [
+        "build",
+        "src/Collectibles/Collectibles.csproj",
+        "-c",
+        "Release",
+        "-p:SptRoot=${input:sptRoot}"
+      ],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "Compilar addon",
+      "type": "process",
+      "command": "dotnet",
+      "args": [
+        "build",
+        "addons/WeekendCollections/WeekendCollections.csproj",
+        "-c",
+        "Release",
+        "-p:SptRoot=${input:sptRoot}"
+      ],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "Validar catálogo",
+      "type": "process",
+      "command": "python",
+      "args": [
+        "tools/validate.py"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "Gerar pacotes",
+      "type": "process",
+      "command": "python",
+      "args": [
+        "tools/package.py"
+      ],
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "sptRoot",
+      "type": "promptString",
+      "description": "Caminho para SPT_Runtime"
+    }
+  ]
+}
