@@ -1,36 +1,36 @@
-# Fontes dos modelos — Poly Haven
+# Model sources — Poly Haven
 
-Os 30 modelos e texturas são CC0: https://polyhaven.com/license
+All 30 models and textures are licensed under CC0: https://polyhaven.com/license
 
-Adaptação: escala, redução de malha, conversão dos mapas EXR, materiais Unity e cadastro SPT.
+Adaptation: scaling, mesh reduction, EXR texture conversion, Unity materials and SPT item registration.
 
-- Toca-fitas do Contrabandista — portable_cassette_player: https://polyhaven.com/a/portable_cassette_player — autores: Mateusz Sadek
-- Notebook do Arquivista — classic_laptop: https://polyhaven.com/a/classic_laptop — autores: Arrangemonk
-- Placa-mãe Experimental — circuit_board: https://polyhaven.com/a/circuit_board — autores: Benny Weimer
-- Câmera do Correspondente — Camera_01: https://polyhaven.com/a/Camera_01 — autores: Rajil Jose Macatangay
-- Transceptor da Operação Zero — vintage_radio_transceiver: https://polyhaven.com/a/vintage_radio_transceiver — autores: Mateusz Sadek
-- Filmadora de Reconhecimento — vintage_video_camera: https://polyhaven.com/a/vintage_video_camera — autores: James Ray Cock, Jenelle van Heerden
-- Multímetro de Laboratório — retro_multimeter: https://polyhaven.com/a/retro_multimeter — autores: elli moeller
-- Relógio Digital do Operador — digital_wrist_watch: https://polyhaven.com/a/digital_wrist_watch — autores: Adrian C
-- Controle do Abrigo — gamepad: https://polyhaven.com/a/gamepad — autores: Josh Dean
-- Lanterna do Explorador — small_plastic_torch: https://polyhaven.com/a/small_plastic_torch — autores: Abiyyu Panggalih (Abiyyu_xyz)
-- Binóculos do Observador — vintage_binocular: https://polyhaven.com/a/vintage_binocular — autores: Luke
-- Máscara de Gás Histórica — old_gas_mask: https://polyhaven.com/a/old_gas_mask — autores: Michał Wiśniewski
-- Bússola do Navegador — seadogs_compass: https://polyhaven.com/a/seadogs_compass — autores: Benny Weimer
-- Relógio de Bolso do Coronel — vintage_pocket_watch: https://polyhaven.com/a/vintage_pocket_watch — autores: Tal Swicegood
-- Isqueiro do Veterano — vintage_lighter: https://polyhaven.com/a/vintage_lighter — autores: Slinc
-- Granada Histórica Inerte — stick_grenade: https://polyhaven.com/a/stick_grenade — autores: singaii
-- Faca de Coleção do Pescador — fish_knife: https://polyhaven.com/a/fish_knife — autores: Mateusz Sadek
-- Binóculos de Campanha — binoculars: https://polyhaven.com/a/binoculars — autores: Derek Wight
-- Lupa do Investigador — magnifying_glass_01: https://polyhaven.com/a/magnifying_glass_01 — autores: Nazar Borodavka
-- Maçarico de Latão Antigo — brass_blowtorch: https://polyhaven.com/a/brass_blowtorch — autores: Ulan Cabanilla
-- Microscópio Experimental — industrial_microscope: https://polyhaven.com/a/industrial_microscope — autores: Lukas Walzer
-- Instrumento de Navegação Espacial — vintage_spacecraft_instrument: https://polyhaven.com/a/vintage_spacecraft_instrument — autores: Michał Wiśniewski
-- Caderno do Pesquisador — binder_notebook: https://polyhaven.com/a/binder_notebook — autores: DaDrood
-- Óculos do Professor — round_spectacles: https://polyhaven.com/a/round_spectacles — autores: Sean Buckley
-- Grampeador do Arquivo Zero — vintage_stapler: https://polyhaven.com/a/vintage_stapler — autores: Mateusz Sadek
-- Garrafa Térmica de Expedição — modified_thermos: https://polyhaven.com/a/modified_thermos — autores: Alex Weber
-- Chave de Catraca de Precisão — ratchet_wrench: https://polyhaven.com/a/ratchet_wrench — autores: John Hutcheson
-- Alicate do Técnico — pliers: https://polyhaven.com/a/pliers — autores: PierreB3D
-- Chave Ajustável Histórica — adjustable_wrench: https://polyhaven.com/a/adjustable_wrench — autores: Mateusz Sadek
-- Martelo da Oficina Zero — cross_pein_hammer: https://polyhaven.com/a/cross_pein_hammer — autores: Tics
+- Smuggler's Cassette Player — portable_cassette_player: https://polyhaven.com/a/portable_cassette_player — authors: Mateusz Sadek
+- Archivist's Laptop — classic_laptop: https://polyhaven.com/a/classic_laptop — authors: Arrangemonk
+- Experimental Motherboard — circuit_board: https://polyhaven.com/a/circuit_board — authors: Benny Weimer
+- Correspondent's Camera — Camera_01: https://polyhaven.com/a/Camera_01 — authors: Rajil Jose Macatangay
+- Operation Zero Transceiver — vintage_radio_transceiver: https://polyhaven.com/a/vintage_radio_transceiver — authors: Mateusz Sadek
+- Reconnaissance Camcorder — vintage_video_camera: https://polyhaven.com/a/vintage_video_camera — authors: James Ray Cock, Jenelle van Heerden
+- Laboratory Multimeter — retro_multimeter: https://polyhaven.com/a/retro_multimeter — authors: elli moeller
+- Operator's Digital Watch — digital_wrist_watch: https://polyhaven.com/a/digital_wrist_watch — authors: Adrian C
+- Hideout Controller — gamepad: https://polyhaven.com/a/gamepad — authors: Josh Dean
+- Explorer's Flashlight — small_plastic_torch: https://polyhaven.com/a/small_plastic_torch — authors: Abiyyu Panggalih (Abiyyu_xyz)
+- Observer's Binoculars — vintage_binocular: https://polyhaven.com/a/vintage_binocular — authors: Luke
+- Historical Gas Mask — old_gas_mask: https://polyhaven.com/a/old_gas_mask — authors: Michał Wiśniewski
+- Navigator's Compass — seadogs_compass: https://polyhaven.com/a/seadogs_compass — authors: Benny Weimer
+- Colonel's Pocket Watch — vintage_pocket_watch: https://polyhaven.com/a/vintage_pocket_watch — authors: Tal Swicegood
+- Veteran's Lighter — vintage_lighter: https://polyhaven.com/a/vintage_lighter — authors: Slinc
+- Inert Historical Grenade — stick_grenade: https://polyhaven.com/a/stick_grenade — authors: singaii
+- Fisherman's Collectible Knife — fish_knife: https://polyhaven.com/a/fish_knife — authors: Mateusz Sadek
+- Field Binoculars — binoculars: https://polyhaven.com/a/binoculars — authors: Derek Wight
+- Investigator's Magnifying Glass — magnifying_glass_01: https://polyhaven.com/a/magnifying_glass_01 — authors: Nazar Borodavka
+- Antique Brass Blowtorch — brass_blowtorch: https://polyhaven.com/a/brass_blowtorch — authors: Ulan Cabanilla
+- Experimental Microscope — industrial_microscope: https://polyhaven.com/a/industrial_microscope — authors: Lukas Walzer
+- Space Navigation Instrument — vintage_spacecraft_instrument: https://polyhaven.com/a/vintage_spacecraft_instrument — authors: Michał Wiśniewski
+- Researcher's Notebook — binder_notebook: https://polyhaven.com/a/binder_notebook — authors: DaDrood
+- Professor's Glasses — round_spectacles: https://polyhaven.com/a/round_spectacles — authors: Sean Buckley
+- Archive Zero Stapler — vintage_stapler: https://polyhaven.com/a/vintage_stapler — authors: Mateusz Sadek
+- Expedition Thermos — modified_thermos: https://polyhaven.com/a/modified_thermos — authors: Alex Weber
+- Precision Ratchet Wrench — ratchet_wrench: https://polyhaven.com/a/ratchet_wrench — authors: John Hutcheson
+- Technician's Pliers — pliers: https://polyhaven.com/a/pliers — authors: PierreB3D
+- Historical Adjustable Wrench — adjustable_wrench: https://polyhaven.com/a/adjustable_wrench — authors: Mateusz Sadek
+- Workshop Zero Hammer — cross_pein_hammer: https://polyhaven.com/a/cross_pein_hammer — authors: Tics

@@ -1,4 +1,4 @@
-name: Validar catálogo
+name: Validate catalogue
 on: [push, pull_request]
 jobs:
   content:

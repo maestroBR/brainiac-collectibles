@@ -1,37 +1,37 @@
 # Brainiac Collectibles
 
-30 itens raros e únicos para encontrar e colecionar no SPT: eletrônicos, peças antigas e instrumentos de pesquisa. Os itens aparecem em cofres e têm modelos próprios.
+30 rare and unique items to find and collect in SPT, from old electronics to field relics and research instruments. Each item has its own model and can be found in safes.
 
-[Download](https://github.com/maestroBR/brainiac-collectibles/releases/latest) · [Addon para Weekend](https://github.com/maestroBR/brainiac-weekend-collections)
+[Download](https://github.com/maestroBR/brainiac-collectibles/releases/latest) · [Weekend addon](https://github.com/maestroBR/brainiac-weekend-collections)
 
-## Instalação
+## Installation
 
-Requer **SPT 4.1.6**. Com o servidor fechado, extraia o ZIP na pasta do jogo. Os arquivos ficam em:
+Requires **SPT 4.1.6**. Close the server and extract the ZIP into your game folder. The files belong in:
 
 ```text
 SPT_Runtime/user/mods/Maestro-BrainiacCollectibles/
 ```
 
-Reinicie o servidor e o jogo. No Fika, todos os jogadores precisam dos bundles do mod.
+Restart the server and game. With Fika, every player needs the mod's bundles.
 
-## Itens e idiomas
+## Items and languages
 
-- Tecnologia Esquecida: câmeras, rádio, notebook e outros eletrônicos.
-- Relíquias de Campo: binóculos, bússola, relógios e peças históricas.
-- Arquivo Brainiac: instrumentos e objetos de pesquisa.
+- Forgotten Technology: cameras, a radio, a laptop and other electronics.
+- Field Relics: binoculars, a compass, watches and historical pieces.
+- Brainiac Archive: research instruments and objects.
 
-São objetos de coleção, sem funções de arma ou equipamento. [Detalhes do loot](docs/LOOT.md).
+These are collectibles, with no weapon or equipment functions. [Loot details](docs/LOOT.md).
 
-Disponível em inglês, alemão, russo, português brasileiro e chinês simplificado, conforme o idioma do jogo.
+Item names and descriptions are available in English, German, Russian, Brazilian Portuguese and Simplified Chinese, following the game's interface language.
 
-O mod funciona sem Weekend. O [addon separado](https://github.com/maestroBR/brainiac-weekend-collections) adiciona as coleções e recompensas.
+Weekend is optional. The [separate addon](https://github.com/maestroBR/brainiac-weekend-collections) adds collections and rewards.
 
-## Remoção
+## Uninstalling
 
-Faça backup e remova os itens personalizados dos inventários antes de desinstalar.
+Back up your profiles and remove the custom items from inventories before uninstalling.
 
-## Créditos
+## Credits
 
-Modelos e texturas do [Poly Haven](https://polyhaven.com), sob CC0. Autores e fontes em [CREDITS.md](CREDITS.md). Adaptação para SPT: Project Brainiac. Código sob MIT.
+Models and textures by [Poly Haven](https://polyhaven.com), licensed under CC0. Authors and sources are listed in [CREDITS.md](CREDITS.md). SPT adaptation by Project Brainiac. Code licensed under MIT.
 
-[Compilar o mod](docs/DEVELOPMENT.md) · [Compatibilidade](docs/COMPATIBILITY.md)
+[Build instructions](docs/DEVELOPMENT.md) · [Compatibility](docs/COMPATIBILITY.md)

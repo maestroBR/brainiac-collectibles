@@ -1,14 +1,14 @@
 # Loot
 
-Os itens entram em pools de cofres que já existem nos mapas. Cada peso é calculado a partir da soma dos pesos originais daquele cofre.
+Items are added to existing safe loot pools. Each added weight is based on the sum of the safe's original item weights.
 
-| Raridade | Peso relativo acrescentado por item |
+| Rarity | Added weight per item |
 | --- | --- |
-| Rare | 0,0009 × peso original do pool |
-| Legendary | 0,00045 × peso original do pool |
-| Exotic | 0,0002 × peso original do pool |
-| Outras | 0,00008 × peso original do pool |
+| Rare | 0.0009 × original pool weight |
+| Legendary | 0.00045 × original pool weight |
+| Exotic | 0.0002 × original pool weight |
+| Other | 0.00008 × original pool weight |
 
-Eletrônicos exóticos: Laboratory, Labyrinth e Reserve. Relíquias militares: Reserve, Woods, Lighthouse e Customs. Objetos Brainiac: cofres elegíveis dos mapas processados.
+Exotic electronics: Laboratory, Labyrinth and Reserve. Military relics: Reserve, Woods, Lighthouse and Customs. Brainiac objects: eligible safes across processed maps.
 
-Esses números não significam “chance por raid”. O resultado depende do pool, dos itens sorteados e do cofre. A normalização das chaves de mapa foi corrigida em 1.2.0 para não depender de letras maiúsculas. Não há airdrop, oferta de comerciante ou Mercado Noturno acrescentado pelo pacote principal.
+These are relative weights, not per-raid spawn chances. Results depend on the loot pool and the items drawn from each safe. Map keys have been normalized since 1.2.0. The main mod does not add airdrop loot, trader offers or Night Market listings.
