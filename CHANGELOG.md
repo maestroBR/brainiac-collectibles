@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.3.1
+
+- Individual lore descriptions for all 30 collectibles in five languages.
+- Asset credits remain in CREDITS.md instead of item descriptions.
+- Item IDs, loot and prices unchanged.
+
+
 ## 1.3.0
 
 - English, German, Russian, Brazilian Portuguese and Simplified Chinese item translations.

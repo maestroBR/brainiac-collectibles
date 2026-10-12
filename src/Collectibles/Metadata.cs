@@ -5,7 +5,7 @@ public sealed class Metadata:IModMetadata {
  public string Name{get;init;}="Project Brainiac — Colecionáveis";
  public string Author{get;init;}="Maestro";
  public List<string>? Contributors{get;init;}=null;
- public SemanticVersioning.Version Version{get;init;}=new("1.3.0");
+ public SemanticVersioning.Version Version{get;init;}=new("1.3.1");
  public SemanticVersioning.Range SptVersion{get;init;}=new("=4.1.6");
  public bool HasPrepatcher{get;init;}=false;
  public List<string>? Incompatibilities{get;init;}=null;
