@@ -39,7 +39,7 @@ public sealed class Mod(CollectionService collection,TemplateTable templates,ISp
     throw new InvalidDataException("Itens Brainiac não carregados. Confira a versão do mod principal.");
   }
   active=this;
-  var harmony=new Harmony("com.maestro.brainiacweekendcollections");
+  var harmony=new Harmony("project.brainiac.weekendcollections");
   harmony.Patch(AccessTools.Method(typeof(CollectionService),nameof(CollectionService.LoadConfig),new[]{typeof(string)}),
    postfix:new HarmonyMethod(typeof(Mod),nameof(AfterReload)));
   Merge(collection);

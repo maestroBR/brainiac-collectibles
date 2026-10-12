@@ -60,3 +60,9 @@ Para remover os itens, faça backup e trate os objetos existentes nos perfis ant
 ## Créditos
 
 Modelos e texturas do [Poly Haven](https://polyhaven.com), licenciados em **CC0**, com autores e fontes em [CREDITS.md](CREDITS.md). Adaptação, otimização, cadastro de itens e integração: **Project Brainiac**. Código sob MIT; a licença dos modelos é mantida separadamente.
+
+## Identificação
+
+Mod GUID: `project.brainiac.collectibles`.
+
+GUID do addon Weekend: `project.brainiac.weekendcollections`. Use esses mesmos identificadores ao cadastrar os mods no Forge.
