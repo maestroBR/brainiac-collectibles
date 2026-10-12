@@ -21,6 +21,7 @@ public sealed class Mod(CustomItemService itemService, TemplateTable templates, 
         var folder = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)!;
         var entries = JsonSerializer.Deserialize<List<Collectible>>(File.ReadAllText(Path.Combine(folder,"catalogue.json")),new JsonSerializerOptions { PropertyNameCaseInsensitive=true })!;
         if(entries.Count!=30 || entries.Select(x=>x.Id).Distinct().Count()!=30) throw new InvalidDataException("Catálogo Brainiac inválido.");
+        var localizedItems = ItemLocalization.Load(folder, entries);
         // Do not create unusable items when assets have not been built and distributed.
         if(entries.Any(x=>!File.Exists(Path.Combine(folder,"bundles",x.Bundle))))
         { logger.Warning("[Brainiac Collectibles] Assets incompletos; nenhum item foi cadastrado. Concluir os bundles antes da ativação."); return Task.CompletedTask; }
@@ -31,7 +32,7 @@ public sealed class Mod(CustomItemService itemService, TemplateTable templates, 
                 NewId=new MongoId(entry.Id),ItemTplToClone=new MongoId("59faf7ca86f7740dbe19f6c2"),
                 NewItemName="brainiac_collectible_"+entry.Slug,ParentId=new MongoId("57864a3d24597754843f8721"),
                 HandbookParentId="5b47574386f77428ca22b2f1",HandbookPriceRoubles=entry.Price,FleaPriceRoubles=entry.Price,AddToWeaponShelf=false,
-                Locales=new Dictionary<string,LocaleDetails> { ["po"]=new(){Name=entry.Name,ShortName=entry.ShortName,Description=entry.Description},["en"]=new(){Name=entry.Name,ShortName=entry.ShortName,Description=entry.Description}},
+                Locales=localizedItems[entry.Slug],
                 OverrideProperties=new TemplateItemProperties { Prefab=new(){Path=entry.Bundle,Rcid=""},Weight=entry.Weight,Width=entry.Width,Height=entry.Height,CanSellOnRagfair=false,ExaminedByDefault=false,BackgroundColor=entry.Category=="exotic"?"violet":entry.Category=="military"?"yellow":"red",QuestItem=false,StackMaxSize=1 }
             });
         }

@@ -1,12 +1,12 @@
 # Brainiac Collectibles
 
-Trinta objetos raros para encontrar, guardar e completar coleções no SPT. Eletrônicos esquecidos, relíquias de campo e equipamentos de pesquisa, com modelos próprios para cada item e textos em português.
+Trinta objetos raros para encontrar, guardar e completar coleções no SPT. Eletrônicos esquecidos, relíquias de campo e equipamentos de pesquisa, com modelos próprios para cada item e textos em cinco idiomas.
 
 ![Catálogo dos 30 colecionáveis](docs/catalogo.jpg)
 
 ## Pacote
 
-Brainiac Collectibles 1.2.0 inclui 30 itens, modelos, texturas e loot em cofres para SPT 4.1.6. Funciona sem Weekend. O addon opcional está no projeto separado **brainiac-weekend-collections**.
+Brainiac Collectibles 1.3.0 inclui 30 itens, modelos, texturas e loot em cofres para SPT 4.1.6. Funciona sem Weekend. O addon opcional está no projeto separado **brainiac-weekend-collections**.
 
 ## Instalação
 
@@ -49,3 +49,7 @@ Modelos e texturas do [Poly Haven](https://polyhaven.com), licenciados em **CC0*
 Mod GUID: `project.brainiac.collectibles`.
 
 Use esse identificador ao cadastrar o mod no Forge.
+
+## Idiomas
+
+Nomes, nomes curtos e descrições dos 30 itens em inglês, alemão, russo, português brasileiro e chinês simplificado. O jogo escolhe a tradução conforme o idioma da interface. Arquivos editáveis em `content/locales`: `en`, `ge`, `ru`, `po` e `ch`, usando os códigos de idioma do SPT.

@@ -19,7 +19,17 @@ def validate():
         assert item['price'] > 0 and item['weight'] > 0, 'Preço/peso inválidos.'
         assert item['width'] > 0 and item['height'] > 0, 'Dimensões inválidas.'
         assert item['assetLicense'] == 'CC0' and item['assetSource'].startswith('https://polyhaven.com/a/'), 'Proveniência ausente.'
-    print('Catálogo e 30 bundles conferidos.')
+    slugs = {item['slug'] for item in items}
+    for language in ['en', 'ge', 'ru', 'po', 'ch']:
+        translations = json.loads((ROOT / 'content/locales' / (language + '.json')).read_text(encoding='utf-8'))
+        assert set(translations) == slugs, f'Cobertura incompleta: {language}'
+        for slug, text in translations.items():
+            assert set(text) == {'name', 'shortName', 'description'}, f'Campos inválidos: {language}/{slug}'
+            assert all(isinstance(value, str) and value.strip() for value in text.values())
+            assert len(text['shortName']) <= 22, f'Nome curto muito longo: {language}/{slug}'
+        if language != 'po':
+            assert all(translations[item['slug']]['description'] != item['description'] for item in items)
+    print('Catálogo, 30 bundles e 150 traduções conferidos.')
 
 
 if __name__ == '__main__':

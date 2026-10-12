@@ -11,7 +11,7 @@ dist.mkdir(exist_ok=True)
 main_dll = ROOT / 'src/Collectibles/bin/Release/net10.0/Maestro.BrainiacCollectibles.dll'
 assert main_dll.is_file(), 'Compile o mod primeiro.'
 
-main_zip = dist / 'Brainiac-Collectibles-1.2.0-SPT-4.1.6.zip'
+main_zip = dist / 'Brainiac-Collectibles-1.3.0-SPT-4.1.6.zip'
 with ZipFile(main_zip, 'w', ZIP_DEFLATED) as archive:
     base = 'SPT_Runtime/user/mods/Maestro-BrainiacCollectibles/'
     archive.write(main_dll, base + main_dll.name)

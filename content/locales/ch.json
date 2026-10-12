@@ -1,0 +1,152 @@
+{
+  "ph_portable_cassette_player": {
+    "name": "走私者的磁带播放器",
+    "shortName": "磁带播放器",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_classic_laptop": {
+    "name": "档案员的笔记本电脑",
+    "shortName": "笔记本电脑",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_circuit_board": {
+    "name": "实验型主板",
+    "shortName": "主板",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_camera_01": {
+    "name": "记者的相机",
+    "shortName": "相机",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_vintage_radio_transceiver": {
+    "name": "零号行动收发机",
+    "shortName": "收发机",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_vintage_video_camera": {
+    "name": "侦察摄像机",
+    "shortName": "摄像机",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_retro_multimeter": {
+    "name": "实验室万用表",
+    "shortName": "万用表",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_digital_wrist_watch": {
+    "name": "行动员的电子表",
+    "shortName": "电子表",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_gamepad": {
+    "name": "藏身处的游戏手柄",
+    "shortName": "游戏手柄",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_small_plastic_torch": {
+    "name": "探险者的手电筒",
+    "shortName": "手电筒",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_vintage_binocular": {
+    "name": "观察员的双筒望远镜",
+    "shortName": "观察员望远镜",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_old_gas_mask": {
+    "name": "历史防毒面具",
+    "shortName": "防毒面具",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_seadogs_compass": {
+    "name": "领航员的指南针",
+    "shortName": "指南针",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_vintage_pocket_watch": {
+    "name": "上校的怀表",
+    "shortName": "怀表",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_vintage_lighter": {
+    "name": "老兵的打火机",
+    "shortName": "打火机",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_stick_grenade": {
+    "name": "历史惰性手榴弹",
+    "shortName": "惰性手榴弹",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_fish_knife": {
+    "name": "渔夫的收藏刀具",
+    "shortName": "收藏刀具",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_binoculars": {
+    "name": "野战双筒望远镜",
+    "shortName": "野战望远镜",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_magnifying_glass_01": {
+    "name": "调查员的放大镜",
+    "shortName": "放大镜",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_brass_blowtorch": {
+    "name": "古董黄铜喷灯",
+    "shortName": "黄铜喷灯",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_industrial_microscope": {
+    "name": "实验型显微镜",
+    "shortName": "显微镜",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_vintage_spacecraft_instrument": {
+    "name": "航天导航仪器",
+    "shortName": "航天导航仪",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_binder_notebook": {
+    "name": "研究员的笔记本",
+    "shortName": "笔记本",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_round_spectacles": {
+    "name": "教授的眼镜",
+    "shortName": "眼镜",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_vintage_stapler": {
+    "name": "零号档案室订书机",
+    "shortName": "订书机",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_modified_thermos": {
+    "name": "探险保温瓶",
+    "shortName": "保温瓶",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_ratchet_wrench": {
+    "name": "精密棘轮扳手",
+    "shortName": "棘轮扳手",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_pliers": {
+    "name": "技术员的钳子",
+    "shortName": "钳子",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_adjustable_wrench": {
+    "name": "历史活动扳手",
+    "shortName": "活动扳手",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  },
+  "ph_cross_pein_hammer": {
+    "name": "零号工坊的锤子",
+    "shortName": "锤子",
+    "description": "在塔科夫保存下来的稀有收藏品。无法作为武器、工具或可用装备使用。模型与纹理：Poly Haven（CC0）。"
+  }
+}

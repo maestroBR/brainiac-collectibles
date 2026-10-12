@@ -1,0 +1,152 @@
+{
+  "ph_portable_cassette_player": {
+    "name": "Kassettenspieler des Schmugglers",
+    "shortName": "Kassettenspieler",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_classic_laptop": {
+    "name": "Laptop des Archivars",
+    "shortName": "Archiv-Laptop",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_circuit_board": {
+    "name": "Experimentelles Mainboard",
+    "shortName": "Mainboard",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_camera_01": {
+    "name": "Kamera des Korrespondenten",
+    "shortName": "Kamera",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_vintage_radio_transceiver": {
+    "name": "Funkgerät der Operation Zero",
+    "shortName": "Zero-Funkgerät",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_vintage_video_camera": {
+    "name": "Aufklärungs-Videokamera",
+    "shortName": "Videokamera",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_retro_multimeter": {
+    "name": "Labor-Multimeter",
+    "shortName": "Multimeter",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_digital_wrist_watch": {
+    "name": "Digitaluhr des Operators",
+    "shortName": "Digitaluhr",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_gamepad": {
+    "name": "Controller aus dem Versteck",
+    "shortName": "Controller",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_small_plastic_torch": {
+    "name": "Taschenlampe des Entdeckers",
+    "shortName": "Taschenlampe",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_vintage_binocular": {
+    "name": "Fernglas des Beobachters",
+    "shortName": "Beobachter-Fernglas",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_old_gas_mask": {
+    "name": "Historische Gasmaske",
+    "shortName": "Gasmaske",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_seadogs_compass": {
+    "name": "Kompass des Navigators",
+    "shortName": "Kompass",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_vintage_pocket_watch": {
+    "name": "Taschenuhr des Obersts",
+    "shortName": "Taschenuhr",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_vintage_lighter": {
+    "name": "Feuerzeug des Veteranen",
+    "shortName": "Feuerzeug",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_stick_grenade": {
+    "name": "Inerte historische Granate",
+    "shortName": "Inerte Granate",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_fish_knife": {
+    "name": "Sammlermesser des Fischers",
+    "shortName": "Sammlermesser",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_binoculars": {
+    "name": "Feldfernglas",
+    "shortName": "Feldfernglas",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_magnifying_glass_01": {
+    "name": "Lupe des Ermittlers",
+    "shortName": "Lupe",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_brass_blowtorch": {
+    "name": "Antike Messinglötlampe",
+    "shortName": "Messinglötlampe",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_industrial_microscope": {
+    "name": "Experimentelles Mikroskop",
+    "shortName": "Mikroskop",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_vintage_spacecraft_instrument": {
+    "name": "Instrument zur Weltraumnavigation",
+    "shortName": "Navigationsgerät",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_binder_notebook": {
+    "name": "Notizbuch des Forschers",
+    "shortName": "Notizbuch",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_round_spectacles": {
+    "name": "Brille des Professors",
+    "shortName": "Brille",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_vintage_stapler": {
+    "name": "Hefter des Archivs Zero",
+    "shortName": "Hefter",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_modified_thermos": {
+    "name": "Expeditions-Thermoskanne",
+    "shortName": "Thermoskanne",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_ratchet_wrench": {
+    "name": "Präzisions-Ratschenschlüssel",
+    "shortName": "Ratschenschlüssel",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_pliers": {
+    "name": "Zange des Technikers",
+    "shortName": "Zange",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_adjustable_wrench": {
+    "name": "Historischer Rollgabelschlüssel",
+    "shortName": "Rollgabelschlüssel",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  },
+  "ph_cross_pein_hammer": {
+    "name": "Hammer der Werkstatt Zero",
+    "shortName": "Hammer",
+    "description": "Ein seltenes, in Tarkov erhaltenes Sammlerstück. Es kann nicht als Waffe, Werkzeug oder funktionsfähige Ausrüstung verwendet werden. Modell und Texturen: Poly Haven (CC0)."
+  }
+}
