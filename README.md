@@ -1,6 +1,6 @@
 # Brainiac Collectibles
 
-Trinta objetos raros para encontrar, guardar e completar coleções no SPT. Eletrônicos esquecidos, relíquias de campo e equipamentos de pesquisa, com modelos próprios para cada item e textos em cinco idiomas.
+Adiciona 30 itens raros e únicos para encontrar e colecionar no SPT. Tem modelos próprios e tradução em cinco idiomas. Quem usa Weekend pode instalar o addon separado para completar as coleções e ganhar recompensas.
 
 ![Catálogo dos 30 colecionáveis](docs/catalogo.jpg)
 
