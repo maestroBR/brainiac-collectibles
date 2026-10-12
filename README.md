@@ -6,7 +6,9 @@ Trinta objetos raros para encontrar, guardar e completar coleções no SPT. Elet
 
 ## Pacote
 
-Brainiac Collectibles 1.3.0 inclui 30 itens, modelos, texturas e loot em cofres para SPT 4.1.6. Funciona sem Weekend. O addon opcional está no projeto separado **brainiac-weekend-collections**.
+Brainiac Collectibles 1.3.0 inclui 30 itens, modelos, texturas e loot em cofres para SPT 4.1.6. Funciona sem Weekend. O addon opcional está no projeto separado [Brainiac Weekend Collections](https://github.com/maestroBR/brainiac-weekend-collections).
+
+[Baixar a versão mais recente](https://github.com/maestroBR/brainiac-collectibles/releases/latest).
 
 ## Instalação
 
