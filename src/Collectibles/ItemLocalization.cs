@@ -5,7 +5,7 @@ namespace Maestro.BrainiacCollectibles;
 
 public static class ItemLocalization
 {
-    private static readonly string[] Languages = ["en", "ge", "ru", "po", "ch"];
+    private static readonly string[] Languages = ["en", "ge", "ru", "po", "ch", "fr", "es", "es-mx", "jp", "kr", "pl", "cz", "it", "hu", "ro", "sk", "tu"];
 
     public static Dictionary<string, Dictionary<string, LocaleDetails>> Load(
         string folder, IReadOnlyCollection<Collectible> entries)

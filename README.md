@@ -22,7 +22,7 @@ Restart the server and game. With Fika, every player needs the mod's bundles.
 
 These are collectibles, with no weapon or equipment functions. [Loot details](docs/LOOT.md).
 
-Item names and descriptions are available in English, German, Russian, Brazilian Portuguese and Simplified Chinese, following the game's interface language.
+Item names, short names and descriptions are available in all 17 Weekend Drops Continued languages: English, German, Russian, Brazilian Portuguese, Simplified Chinese, French, Spanish, Latin American Spanish, Japanese, Korean, Polish, Czech, Italian, Hungarian, Romanian, Slovak and Turkish. Item text follows the game's interface language. Update the entire mod folder, including all locale files.
 
 Weekend is optional. The [separate addon](https://github.com/maestroBR/brainiac-weekend-collections) adds collections and rewards.
 

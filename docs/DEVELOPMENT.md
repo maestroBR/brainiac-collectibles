@@ -23,3 +23,5 @@ For VS Code to resolve references, create `Directory.Build.local.props` in the r
 This file is ignored by Git. Reload the VS Code window after creating it.
 
 SPT and third-party DLLs are local references and are not distributed. The bundles in content/bundles are prebuilt; changing C# does not rebuild them. Model changes require the appropriate Unity project and SDK, source assets and renewed validation.
+
+Locale regression runner: `dotnet run --project tests/Localization.csproj -c Release` with `SPT_ROOT` set, from the repository root. It checks all 30 items across 17 native codes and rejects incomplete locale payloads without touching profiles.

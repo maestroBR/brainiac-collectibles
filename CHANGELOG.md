@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.4.0 — 2026-10-16
+
+- Expanded item names, short names and individual lore descriptions from 5 to all 17 Weekend Drops Continued languages.
+- Added French, Spanish, Latin American Spanish, Japanese, Korean, Polish, Czech, Italian, Hungarian, Romanian, Slovak and Turkish.
+- Added concise localized inventory labels and full locale coverage validation.
+- Preserved all 30 item IDs, models, bundles, prices, loot and compatibility with Brainiac Weekend Collections.
+- Update the complete mod folder to include the new locale files. In-game font/layout review remains pending.
+
 ## 1.3.1
 
 - Individual lore descriptions for all 30 collectibles in five languages.
